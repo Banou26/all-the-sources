@@ -16,6 +16,6 @@
   "keywords": [
     "fkn",
     "fkn-type:plugin",
-    "fkn-plugin:localhost:4560-@banou"
+    "fkn-plugin:localhost:4560-@banou/stub"
   ]
 }
